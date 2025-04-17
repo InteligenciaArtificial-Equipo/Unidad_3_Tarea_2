@@ -13,6 +13,6 @@
 - Si el jugador tiene ***A - y suma 7*** debera *doblarse* si solo se tienen 2 cartas y el *dealer* tiene una carta entre ***3*** y ***6*** de lo contrario debera *pedir* si el *dealer* tiene una carta entre ***9*** y ***A***, si no debera *plantarce*.
 - Si el jugador suma ***9*** debe *doblarse* si solo se tienen 2 cartas y el *dealer* tiene una carta entre ***3*** y ***6*** de lo contrario debera *pedir*.
 - Si el jugador suma ***11*** o ***10*** debe *doblarse* si solo se tienen 2 cartas y el *dealer* tiene una carta entre ***2*** y ***9*** de lo contrario debera *pedir*.
-- Si el jugador suma ***12** debe *plantarce* si el *dealer* tiene una carta entre ***4*** y ***6*** de lo contrario debera *pedir*.
+- Si el jugador suma ***12*** debe *plantarce* si el *dealer* tiene una carta entre ***4*** y ***6*** de lo contrario debera *pedir*.
 - Si el jugador suma entre ***13*** y ***16*** debe *plantarce* si el *dealer* tiene una carta entre ***2*** y ***6*** de lo contrario debera *pedir*.
 - Si el jugador suma entre ***17*** y ***21*** debe *plantarce*.
