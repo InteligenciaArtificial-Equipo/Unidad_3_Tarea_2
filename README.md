@@ -4,5 +4,5 @@
 #### Chaparro Castillo Christopher
 #### Peñuelas López Luis Antonio
 
-## Se realizo desarrollo del diagrama de inferencia
+## Se realizo desarrollo de la red de inferencia
 ## Desarrollo de reglas
